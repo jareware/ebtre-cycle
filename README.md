@@ -7,3 +7,7 @@
    * the basics in the official: guide http://git-scm.com/book/en/Getting-Started-Git-Basics
  * vim
    * compact cheat-sheet: http://bullium.com/support/vim.html
+
+## Sites
+ * http://www.wiggle.co.uk
+ * http://www.bike-discount.de
