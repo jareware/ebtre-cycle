@@ -8,6 +8,3 @@
  * vim
    * compact cheat-sheet: http://bullium.com/support/vim.html
 
-## Sites
- * http://www.wiggle.co.uk
- * http://www.bike-discount.de
