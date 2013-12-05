@@ -6,4 +6,7 @@ with open('input.html') as page:
 
 soup = BeautifulSoup(file_content)
 
-print(soup.title)
+# price = soup.find(class="unit-price")
+price = soup.select(".unit-price")[0]
+
+print(price.get_text())
